@@ -4,14 +4,14 @@
 int main()
 {
     int n = 0;
-    int resultado = 1;
+    int fatorial = 1;
 
     printf("digite um numero\n");
     scanf("%d", &n);
 
     resultado = fatorial(n);
 
-    printf("o fatorial de %d é %d \n", n, resultado);
+    printf("o fatorial de %d é %d \n", n, fatorial);
     printf("feito por Allyson Rodolfo");
 
     return 0;
