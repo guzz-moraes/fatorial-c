@@ -12,7 +12,7 @@ int main()
     resultado = fatorial(n);
 
     printf("o fatorial de %d é %d \n", n, fatorial);
-    printf("feito por Allyson Rodolfo");
+    printf("feito por Gustavo Moraes Orlando");
 
     return 0;
 }
